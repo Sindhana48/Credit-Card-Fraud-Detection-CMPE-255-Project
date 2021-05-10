@@ -28,11 +28,11 @@ The dataset for this project was obtained from Kaggle. The dataset can be downlo
 8. Execute the code in Credit_Card_Fraud_EDA.ipynb to view the visualizations and data analysis.<br>
 9. The code for neural networks is available in credit_card_neural_network.ipynb notebook.<br>
 
-## Authors
+## Authors 
 
-Sindhana Krishnamurthy<br>
-Madhuri Dhani Venu<br>
-Kan Hioki<br>
-Geetika Kapil<br>
+Sindhana Krishnamurthy <br>
+Madhuri Dhani Venu <br>
+Kan Hioki <br>
+Geetika Kapil <br>
 
 
